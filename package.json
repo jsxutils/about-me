@@ -1,0 +1,25 @@
+{
+  "name": "@jsxutils/about-me",
+  "version": "0.0.1",
+  "description": "A little package the prints some about me information",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
+  "dependencies": {
+    "boxen": "^5.1.2",
+    "chalk": "^2.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "bin": {
+    "about-me": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jsxutils/about-me.git"
+  },
+  "author": "Mohit Kumar",
+  "homepage": "https://github.com/jsxutils/about-me#readme"
+}
